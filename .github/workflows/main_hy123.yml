@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'hy123'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F5531EE1E9B94E00B92FE4C0F4D10331 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_16E03F74743E422DBA5C00AF778F4758 }}
           package: .
